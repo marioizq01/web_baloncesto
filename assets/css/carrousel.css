@@ -1,0 +1,41 @@
+
+
+ul#images li {
+  display: block;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+  width: 472px;
+  height: 600px;
+}
+/* Image Transitions */
+ul#images {
+  margin: 0 15px 10px 0;
+  padding: 0;
+  position: relative;
+}
+#main, #container, #site_content, { 
+  margin-left: auto; 
+  margin-right: auto;
+}
+#site_content { 
+  width: 940px;
+  overflow: hidden;
+  margin: 0px auto 0 auto;
+  padding: 15px 0 15px 0;
+} 
+
+
+ul#images li {
+  display: block;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+  width: 236px;
+  height: 400px;
+}
+/* Image Transitions */
+ul#images {
+  margin: 0 15px 10px 0;
+  padding: 0;
+  position: relative;
